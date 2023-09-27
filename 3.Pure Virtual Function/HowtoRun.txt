@@ -1,0 +1,2 @@
+g++ sampleCode.cpp
+a.exe
